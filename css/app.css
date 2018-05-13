@@ -9,6 +9,9 @@ html {
     box-sizing: inherit;
 }
 
+
+/* Some comments */
+
 body {
     display: flex;
     margin: 0;
